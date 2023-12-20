@@ -1,6 +1,9 @@
 
 # Cuemath Go! - React Native App
 
+![App Icon](https://github.com/shikhu51197/reactnativenew/assets/107506646/bcba31a2-17f1-4f8e-a10c-e797b1ed699e)
+
+
 ✨   Video Walkthrough :-  <a href="https://drive.google.com/file/d/1NJDhdEaZ98qPdkkhWmbgxSUCwXUeloPL/view?usp=drive_link">![Demo video of app](https://img.shields.io/badge/Demo_Video_Of_App-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
 <a href="https://drive.google.com/file/d/1NJDhdEaZ98qPdkkhWmbgxSUCwXUeloPL/view?usp=drive_link">![apk](https://img.shields.io/badge/Apk-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=blue)</a>
@@ -63,13 +66,22 @@ IOS Users: Expo Go
 Scan the QR code using the previously installed Expo Go application, and the application will be visible to you.
 
 # Screenshots
+
+
+# Home Screen
+
+![1](https://github.com/shikhu51197/reactnativenew/assets/107506646/0f8da575-dd40-4259-841c-97c2d040ac00)
+
+
 # Signup Screen
 A form-based interface for new user registration.
 
+![2](https://github.com/shikhu51197/reactnativenew/assets/107506646/2e3a2894-3cfe-4b4a-a8b4-267ecaac7c42)
 
 # Login Screen
 Entry point for existing users, providing input fields for email and password.
 
+![3](https://github.com/shikhu51197/reactnativenew/assets/107506646/f230ec2b-5583-4e6f-b226-1a847a2aae2b)
 
 # Technology Stack
 React Native
