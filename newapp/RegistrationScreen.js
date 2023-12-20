@@ -48,10 +48,14 @@ const RegistrationScreen = ({ navigation }) => {
 
     try {
       await AsyncStorage.setItem("userData", JSON.stringify(userData));
-      
-      Alert.alert("Account created successfully!");
-      navigation.navigate("LoginScreen");
 
+      Alert.alert("Account created successfully!");
+      setEmail("");
+      setPassword("");
+      setConfirmPassword("");
+      setFirstName("");
+      setAge("");
+      navigation.navigate("LoginScreen");
     } catch (error) {
       console.error("Error storing data:", error);
     }
@@ -80,7 +84,7 @@ const RegistrationScreen = ({ navigation }) => {
         placeholderTextColor="#808080"
         value={password}
         onChangeText={(text) => setPassword(text)}
-        secureTextEntry
+        secureTextEntry={true}
       />
       <TextInput
         style={styles.input}
@@ -88,7 +92,7 @@ const RegistrationScreen = ({ navigation }) => {
         placeholderTextColor="#808080"
         value={confirmPassword}
         onChangeText={(text) => setConfirmPassword(text)}
-        secureTextEntry
+        secureTextEntry={true}
       />
       <TextInput
         style={styles.input}

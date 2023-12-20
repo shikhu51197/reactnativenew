@@ -29,7 +29,8 @@ const LoginScreen = ({ navigation }) => {
         if (email === userData.email && password === userData.password) {
         
           Alert.alert("Login successful!");
-          navigation.navigate("BottomSheetModal");
+          navigation.navigate("HomePage");
+          
         } else {
           Alert.alert("Invalid email or password.");
         }
@@ -62,7 +63,7 @@ const LoginScreen = ({ navigation }) => {
         placeholderTextColor="#808080"
         value={password}
         onChangeText={(text) => setPassword(text)}
-        secureTextEntry
+        secureTextEntry={true}
       />
       <View style={styles.spacing} />
       <View style={styles.buttonContainer}>
