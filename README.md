@@ -35,7 +35,7 @@ Welcome to Cuemath Go!, a React Native application focusing on user authenticati
 # Features
 ⭕UI Implementation: The app's user interface is designed with a user-centric approach, featuring screens for signup and login.
 
-⭕Signup Screen: A form-based interface allowing new users to register for the application. It provides input fields for essential user information and performs real-time error validation, ensuring data accuracy. Upon successful completion, user data is securely stored.
+⭕Signup Screen: A form-based interface allowing new users to register for the application. It provides input fields for essential user information and performs real-time error validation, ensuring data accuracy. Upon successful completion, user data is securely stored.  Vibrate for 10ms if any button is clicked. 
 
 ⭕Login Screen: Existing users can access the application by providing their registered email ID and password. The interface includes input fields for login credentials, error handling for invalid attempts, and a "Login" button for user authentication. data handling via local storage.
 
@@ -69,6 +69,7 @@ Scan the QR code using the previously installed Expo Go application, and the app
 
 
 # Home Screen
+Vibrate for 10ms if any button is clicked. 
 
 ![1](https://github.com/shikhu51197/reactnativenew/assets/107506646/0f8da575-dd40-4259-841c-97c2d040ac00)
 
@@ -84,10 +85,11 @@ Entry point for existing users, providing input fields for email and password.
 ![3](https://github.com/shikhu51197/reactnativenew/assets/107506646/f230ec2b-5583-4e6f-b226-1a847a2aae2b)
 
 # Technology Stack
-React Native
-Expo
-JavaScript
-tailwind css
+
+💫 React Native
+💫 Expo
+💫 JavaScript
+💫 tailwind css
 
 
 ## Flow
