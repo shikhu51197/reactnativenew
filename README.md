@@ -1,9 +1,9 @@
 
 # Cuemath Go! - React Native App
 
-✨   Video Walkthrough :-  <a href="https://drive.google.com/file/d/1NJDhdEaZ98qPdkkhWmbgxSUCwXUeloPL/view?usp=drive_link">![Demo video of expo](https://img.shields.io/badge/Demo_Video_Of_Game-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
+✨   Video Walkthrough :-  <a href="https://drive.google.com/file/d/1NJDhdEaZ98qPdkkhWmbgxSUCwXUeloPL/view?usp=drive_link">![Demo video of app](https://img.shields.io/badge/Demo_Video_Of_App-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
-
+<a href="https://drive.google.com/file/d/1NJDhdEaZ98qPdkkhWmbgxSUCwXUeloPL/view?usp=drive_link">![apk](https://img.shields.io/badge/Apk-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=blue)</a>
 
 Check out the demo video for a visual walkthrough of the signup and login processes.
 
